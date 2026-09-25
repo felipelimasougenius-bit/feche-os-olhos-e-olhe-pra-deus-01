@@ -1,0 +1,6 @@
+{
+  "name": "Feche os Olhos e Olhe para Deus",
+  "description": "Histórias interativas personalizadas de fé, discernimento e renovação espiritual pelo autor Felipe Lima.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
